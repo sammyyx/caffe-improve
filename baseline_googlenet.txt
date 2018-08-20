@@ -1,0 +1,4 @@
+googlenet-bs_256-speed: 1.80614
+googlenet-bs_128-speed: 3.5282
+googlenet-bs_64-speed: 6.76131
+googlenet-bs_32-speed: 12.1328

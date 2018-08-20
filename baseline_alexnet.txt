@@ -1,0 +1,5 @@
+alexnet-bs_2048-speed: 0
+alexnet-bs_256-speed: 4.76137
+alexnet-bs_128-speed: 8.63649
+alexnet-bs_64-speed: 11.1974
+alexnet-bs_32-speed: 13.4182

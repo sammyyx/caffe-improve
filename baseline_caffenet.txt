@@ -1,0 +1,4 @@
+caffenet-bs_256-speed: 8.37403
+caffenet-bs_128-speed: 14.9695
+caffenet-bs_64-speed: 25.8818
+caffenet-bs_32-speed: 42.3917
